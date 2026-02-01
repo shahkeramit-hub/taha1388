@@ -1,0 +1,96 @@
+.parent1 {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 6px;
+}
+.p-2{
+        position: relative;
+    top: -2rem;
+    left: -22px;
+    font-size: 11px;
+}
+.p-3{
+        position: relative;
+    top: -3rem;
+    left: -36px;
+    font-size: 11px;
+}
+.p-4{
+        position: relative;
+    top: -50px;
+    left: -18px;
+    font-size: 11px;
+}
+.p-5{
+        position: relative;
+    top: -5rem;
+    left: -1px;
+    font-size: 8px;
+}
+.p-6{
+        position: relative;
+    top: -2rem;
+    left: -52px;
+    font-size: 11px;
+}
+.p-7{
+        position: relative;
+    top: -2rem;
+    left: -32px;
+    font-size: 11px;
+}
+.p-8{
+        position: relative;
+    top: -2rem;
+    left: -33px;
+    font-size: 11px;
+}
+.p-9{
+        position: relative;
+    top: -2rem;
+    left: -54px;
+    font-size: 12px;
+}
+.p-10{
+        position: relative;
+    top: -2rem;
+    left: -40px;
+    font-size: 11px;
+}
+.p-11{
+        position: relative;
+    top: -2rem;
+    left: -37px;
+    font-size: 11px;
+}
+//
+.dodol{
+    position: relative;
+    top: 24px;
+
+}
+.img-1{
+    padding-top: 35px;
+}
+.img-2{
+    padding-top: 1px;
+}
+.img-3{
+    padding-top: 60px;
+}
+.img-4{
+    padding-top: 41px;
+}
+.img-5{
+    padding-top: 27px;
+}
+.img-6{
+    padding-top: 32px;
+}
+.img-7{
+    padding-top: 48px;
+}
+.img-8{
+    padding-top: 31px;
+}

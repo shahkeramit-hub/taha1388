@@ -1,0 +1,364 @@
+@use "suip.scss";
+@use "seller-register.scss";
+@use "fonts";
+@use "serv";
+@use "home-and-kitchen";
+@use "araeesh-zibaee";
+@use "mod";
+html {
+    scroll-behavior: smooth !important;
+}
+
+//اینجا استایل های هدر است
+.nana {
+    position: relative;
+    top: 20rem;
+    border-radius: 1rem;
+}
+
+.koko {
+    width: 400px;
+    height: 150px;
+}
+
+.b1 {
+    padding-top: 4rem;
+    font-size: x-large;
+    color: black;
+}
+
+.btn-smr {
+    position: relative;
+    border: none;
+    left: -5rem;
+    
+}
+.btn-smr-1 {
+    position: relative;
+    border: none;
+   left: -6rem;
+}
+.baran{
+    width: 30px;
+}
+
+//اینجا استایل های سوییپر که میخوام رو میدم
+.ppp {
+    padding-top: 3rem;
+}
+
+//اینجا استایل های سکشن است
+section {
+
+    p {
+        color: black;
+    }
+}
+
+.ja-2 {
+
+    bottom: 100px;
+    padding-top: 10rem;
+    background-color: rgba(150, 150, 150, 0.732);
+    height: 375px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    top: -65px;
+}
+
+.moshahede-mahsolat {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    position: relative;
+    top: 20px;
+    padding-right: 100px;
+}
+
+.mahsol-berand {
+    width: 300px;
+    overflow: hidden;
+}
+
+.mahsol-text {
+    position: relative;
+    width: 100px;
+    height: 32px;
+    background-color: rgb(185, 185, 185);
+    bottom: 400px;
+    text-align: center;
+    color: black;
+
+}
+
+.moshahede-mahsolat {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    position: relative;
+    top: 0rem;
+    padding-right: 100px;
+}
+
+.mahsol-ha {
+    position: relative;
+    top: -44px;
+}
+
+.lilie {
+    position: relative;
+    top: -6rem;
+}
+
+// سکشن 2
+.nana-2 {
+    position: relative;
+    top: 24rem;
+    // background-color: rgba(127, 255, 212, 0.756);
+    border-radius: 1rem;
+}
+
+.h1-i {
+    padding-top: 1rem;
+    position: relative;
+    top: -11px;
+
+}
+
+.got {
+    // background-color: rgb(127, 255, 212);
+    width: 1px;
+
+}
+
+.a-1 {
+    text-decoration: none;
+    color: black;
+    // background-color: aqua;
+    font-size: 1rem;
+    border-radius: 3rem;
+    position: relative;
+    // right: 96rem;
+    top: -2rem;
+    // display: inline;
+    height: 35px;
+}
+
+.a-1:hover {
+    background-color: #00ffff62;
+    color: black;
+}
+
+.a-2 {
+    border-radius: 2rem;
+    position: relative;
+    left: 5rem;
+    top: 10px;
+
+}
+
+//اینجا استایل های ان سه عنصر رو میدم
+.foder {
+    position: relative;
+    top: 31rem;
+}
+
+.gojo {
+    border-radius: 2rem;
+}
+
+//استایل های سوییپر 3
+.dad {
+    position: relative;
+    top: 40rem;
+}
+
+.nana-1 {
+    position: relative;
+    top: 43rem;
+    // background-color: rgba(127, 255, 212, 0.756);
+    border-radius: 1rem;
+}
+
+//استایل های سکشن5
+.nana-4 {
+    position: relative;
+    top: 50rem;
+   background-repeat:no-repeat ;
+   background-size:cover ;
+    background-image: url(/imeg/talaa-1.jpg);
+    border-radius: 1rem;
+}
+
+.a-4 {
+    text-decoration: none;
+    color: black;
+    background-color: gold;
+    font-size: 1rem;
+    border-radius: 3rem;
+    position: relative;
+    right: 96rem;
+    top: -2rem;
+    display: inline;
+}
+
+.a-4:hover {
+    background-color: rgba(255, 217, 0, 0.405);
+}
+
+.yasin {
+    text-decoration: none;
+}
+
+////استایل های سکشن5
+.se-6 {
+    position: relative;
+    top: 56rem;
+}
+
+.bor {
+    border-radius: 20px;
+}
+
+//سکشن 5
+
+.nana-5 {
+    position: relative;
+    top: 58rem;
+    border-radius: 1rem;
+    // background-color: rgba(127, 255, 212, 0.756);
+
+}
+
+.a-5 {
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+    font-size: 1rem;
+    border-radius: 3rem;
+    position: relative;
+    right: 96rem;
+    top: -2rem;
+    display: inline;
+}
+
+.a-5:hover {
+    background-color: #00ffff62;
+
+}
+
+//سکشن 6
+.nana-6 {
+    position: relative;
+    top: 66rem;
+    border-radius: 1rem;
+    // background-color: rgba(127, 255, 212, 0.756);
+
+}
+
+.a-6 {
+    text-decoration: none;
+    color: black;
+    background-color: aqua;
+    font-size: 1rem;
+    border-radius: 3rem;
+    position: relative;
+    right: 96rem;
+    top: -2rem;
+    display: inline;
+    // z-index: 2;
+
+}
+
+.a-6:hover {
+    background-color: #00ffff62;
+
+}
+
+//فوتر
+.reza {
+    position: relative;
+    top: 70rem;
+}
+
+//فوتر 2
+.reza-2 {
+    position: relative;
+    top: 78rem;
+}
+
+.popo {
+    font-size: 30px;
+    position: relative;
+    top: -3rem;
+    left: -12rem;
+}
+
+.popop {
+    font-size: 20px;
+    position: relative;
+    left: -14rem;
+
+}
+
+.goko {
+    position: relative;
+    left: -13rem;
+}
+
+//فوتر 3
+.reza-3 {
+    position: relative;
+    top: 80rem;
+}
+.taha{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(168, 168, 168);
+    
+}
+.lufy{
+    width: 44px;
+    left: -25px;
+    position: relative;
+}
+.lufy-1{
+    width: 44px;
+    left: -45px;
+    position: relative;
+}
+.lufy-2{
+    width: 44px;
+    left: -55px;
+    position: relative;
+}
+.aaa{
+    position: relative;
+    top: 1rem;
+}
+//پایان
+.mom{
+    position: relative;
+    top: 85rem;
+    font-size: 22px;
+    
+}
+.cit{
+    position: relative;
+    top: 23rem;
+}
+.cif{
+    position: relative;
+    top: 78rem;
+
+}
+
+
+
+
+
+

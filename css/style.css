@@ -1,0 +1,1236 @@
+@charset "UTF-8";
+html,
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 25%;
+  object-fit: cover;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+.nana {
+  position: relative;
+  top: 20rem;
+  border-radius: 1rem;
+}
+
+.kok {
+  width: 300px;
+  height: 150px;
+}
+
+.b1 {
+  padding-top: 4rem;
+  font-size: x-large;
+  color: black;
+}
+
+.btn-smr {
+  position: relative;
+  border: none;
+  left: -5rem;
+}
+
+.btn-smr-1 {
+  position: relative;
+  border: none;
+  left: -6rem;
+}
+
+.baran {
+  width: 30px;
+}
+
+.caf {
+  background-color: rgba(99, 99, 99, 0.312);
+  color: black;
+  border: none;
+}
+
+.caf:hover {
+  color: black;
+  background-color: rgba(99, 99, 99, 0.158);
+}
+
+.papa {
+  text-align: center;
+  padding-top: 5rem;
+}
+
+.doro {
+  padding-top: 1rem;
+}
+
+.doro-1 {
+  padding-top: 1rem;
+  color: rgb(96, 96, 96);
+}
+
+.doro-2 {
+  color: rgb(96, 96, 96);
+}
+
+.sos {
+  position: relative;
+  top: 6px;
+  width: 25px;
+}
+
+.btn-primary-1 {
+  padding-left: 4rem;
+  padding-right: 4rem;
+  font-size: 21px;
+}
+
+.zihaha {
+  position: relative;
+  right: 50rem;
+  top: 26px;
+  width: 125px;
+}
+
+.consert {
+  padding-top: 6rem;
+}
+
+.amir {
+  padding-top: 7rem;
+}
+
+.yoyo {
+  padding-top: 5rem;
+}
+
+.koke {
+  position: relative;
+  left: 45px;
+  top: 7px;
+  font-size: 20px;
+  display: block;
+}
+
+.mmli {
+  padding-top: 4rem;
+}
+
+.bob {
+  border-radius: 10px;
+}
+
+.bob-2 {
+  position: relative;
+  top: 6rem;
+  display: block;
+}
+.bob-2 p {
+  font-size: 24px;
+  color: rgba(121, 121, 121, 0.679);
+}
+
+.hr-1 {
+  position: relative;
+  top: 4rem;
+  display: block;
+}
+
+.reza-0 {
+  position: relative;
+  top: 8rem;
+  display: block;
+}
+
+.reza-01 {
+  position: relative;
+  top: 10rem;
+}
+
+.reza-02 {
+  position: relative;
+  top: 10rem;
+}
+
+.momo {
+  position: relative;
+  top: 12rem;
+  font-size: 22px;
+}
+
+@font-face {
+  font-family: "BBadr";
+  src: url("fonts/BBadr.eot?#") format("eot"), url("fonts/BBadr.woff") format("woff"), url("fonts/BBadr.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BBaran";
+  src: url("fonts/BBaran.eot?#") format("eot"), url("fonts/BBaran.woff") format("woff"), url("fonts/BBaran.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BBardiya";
+  src: url("fonts/BBardiya.eot?#") format("eot"), url("fonts/BBardiya.woff") format("woff"), url("fonts/BBardiya.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BCompset";
+  src: url("fonts/BCompset.eot?#") format("eot"), url("fonts/BCompset.woff") format("woff"), url("fonts/BCompset.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BDavat";
+  src: url("fonts/BDavat.eot?#") format("eot"), url("fonts/BDavat.woff") format("woff"), url("fonts/BDavat.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BElham";
+  src: url("fonts/BElham.eot?#") format("eot"), url("fonts/BElham.woff") format("woff"), url("fonts/BElham.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BEsfehanBold";
+  src: url("fonts/BEsfehanBold.eot?#") format("eot"), url("fonts/BEsfehanBold.woff") format("woff"), url("fonts/BEsfehanBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BFantezy";
+  src: url("fonts/BFantezy.eot?#") format("eot"), url("fonts/BFantezy.woff") format("woff"), url("fonts/BFantezy.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BFarnaz";
+  src: url("fonts/BFarnaz.eot?#") format("eot"), url("fonts/BFarnaz.woff") format("woff"), url("fonts/BFarnaz.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BFerdosi";
+  src: url("fonts/BFerdosi.eot?#") format("eot"), url("fonts/BFerdosi.woff") format("woff"), url("fonts/BFerdosi.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BHamid";
+  src: url("fonts/BHamid.eot?#") format("eot"), url("fonts/BHamid.woff") format("woff"), url("fonts/BHamid.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BHelal";
+  src: url("fonts/BHelal.eot?#") format("eot"), url("fonts/BHelal.woff") format("woff"), url("fonts/BHelal.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BHoma";
+  src: url("fonts/BHoma.eot?#") format("eot"), url("fonts/BHoma.woff") format("woff"), url("fonts/BHoma.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BJadidBold";
+  src: url("fonts/BJadidBold.eot?#") format("eot"), url("fonts/BJadidBold.woff") format("woff"), url("fonts/BJadidBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BJalal";
+  src: url("fonts/BJalal.eot?#") format("eot"), url("fonts/BJalal.woff") format("woff"), url("fonts/BJalal.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BKoodakBold";
+  src: url("fonts/BKoodakBold.eot?#") format("eot"), url("fonts/BKoodakBold.woff") format("woff"), url("fonts/BKoodakBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BKourosh";
+  src: url("fonts/BKourosh.eot?#") format("eot"), url("fonts/BKourosh.woff") format("woff"), url("fonts/BKourosh.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BLotus";
+  src: url("fonts/BLotus.eot?#") format("eot"), url("fonts/BLotus.woff") format("woff"), url("fonts/BLotus.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BMahsa";
+  src: url("fonts/BMahsa.eot?#") format("eot"), url("fonts/BMahsa.woff") format("woff"), url("fonts/BMahsa.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BMehrBold";
+  src: url("fonts/BMehrBold.eot?#") format("eot"), url("fonts/BMehrBold.woff") format("woff"), url("fonts/BMehrBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BMitra";
+  src: url("fonts/BMitra.eot?#") format("eot"), url("fonts/BMitra.woff") format("woff"), url("fonts/BMitra.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BMorvarid";
+  src: url("fonts/BMorvarid.eot?#") format("eot"), url("fonts/BMorvarid.woff") format("woff"), url("fonts/BMorvarid.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BNarm";
+  src: url("fonts/BNarm.eot?#") format("eot"), url("fonts/BNarm.woff") format("woff"), url("fonts/BNarm.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BNasimBold";
+  src: url("fonts/BNasimBold.eot?#") format("eot"), url("fonts/BNasimBold.woff") format("woff"), url("fonts/BNasimBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BNazanin";
+  src: url("fonts/BNazanin.eot?#") format("eot"), url("fonts/BNazanin.woff") format("woff"), url("fonts/BNazanin.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BRoya";
+  src: url("fonts/BRoya.eot?#") format("eot"), url("fonts/BRoya.woff") format("woff"), url("fonts/BRoya.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BSetarehBold";
+  src: url("fonts/BSetarehBold.eot?#") format("eot"), url("fonts/BSetarehBold.woff") format("woff"), url("fonts/BSetarehBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BShiraz";
+  src: url("fonts/BShiraz.eot?#") format("eot"), url("fonts/BShiraz.woff") format("woff"), url("fonts/BShiraz.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BSinaBold";
+  src: url("fonts/BSinaBold.eot?#") format("eot"), url("fonts/BSinaBold.woff") format("woff"), url("fonts/BSinaBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BTabassom";
+  src: url("fonts/BTabassom.eot?#") format("eot"), url("fonts/BTabassom.woff") format("woff"), url("fonts/BTabassom.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BTehran";
+  src: url("fonts/BTehran.eot?#") format("eot"), url("fonts/BTehran.woff") format("woff"), url("fonts/BTehran.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BTitrBold";
+  src: url("fonts/BTitrBold.eot?#") format("eot"), url("fonts/BTitrBold.woff") format("woff"), url("fonts/BTitrBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BTitrTGEBold";
+  src: url("fonts/BTitrTGEBold.eot?#") format("eot"), url("fonts/BTitrTGEBold.woff") format("woff"), url("fonts/BTitrTGEBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BTraffic";
+  src: url("fonts/BTraffic.eot?#") format("eot"), url("fonts/BTraffic.woff") format("woff"), url("fonts/BTraffic.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BVahidBold";
+  src: url("fonts/BVahidBold.eot?#") format("eot"), url("fonts/BVahidBold.woff") format("woff"), url("fonts/BVahidBold.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BYagut";
+  src: url("fonts/BYagut.eot?#") format("eot"), url("fonts/BYagut.woff") format("woff"), url("fonts/BYagut.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BYas";
+  src: url("fonts/BYas.eot?#") format("eot"), url("fonts/BYas.woff") format("woff"), url("fonts/BYas.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BYekan";
+  src: url("fonts/BYekan.eot?#") format("eot"), url("fonts/BYekan.woff") format("woff"), url("fonts/BYekan.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BZar";
+  src: url("fonts/BZar.eot?#") format("eot"), url("fonts/BZar.woff") format("woff"), url("fonts/BZar.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "BZiba";
+  src: url("fonts/BZiba.eot?#") format("eot"), url("fonts/BZiba.woff") format("woff"), url("fonts/BZiba.ttf") format("truetype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+@font-face {
+  font-family: "nastaliq";
+  src: url("fonts/IranNastaliq.eot?#") format("eot"), url("fonts/IranNastaliq.woff") format("woff"), url("fonts/IranNastaliq.ttf") format("truetype"), url("fonts/IranNastaliq.otf") format("opentype"); /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+.BBadr {
+  font-family: BBadr, Arial, Helvetica, sans-serif;
+}
+
+.BBaran {
+  font-family: BBaran, Arial, Helvetica, sans-serif;
+}
+
+.BBardiya {
+  font-family: BBardiya, Arial, Helvetica, sans-serif;
+}
+
+.BCompset {
+  font-family: BCompset, Arial, Helvetica, sans-serif;
+}
+
+.BDavat {
+  font-family: BDavat, Arial, Helvetica, sans-serif;
+}
+
+.BElham {
+  font-family: BElham, Arial, Helvetica, sans-serif;
+}
+
+.BEsfehanBold {
+  font-family: BEsfehanBold, Arial, Helvetica, sans-serif;
+}
+
+.BFantezy {
+  font-family: BFantezy, Arial, Helvetica, sans-serif;
+}
+
+.BFarnaz {
+  font-family: BFarnaz, Arial, Helvetica, sans-serif;
+}
+
+.BFerdosi {
+  font-family: BFerdosi, Arial, Helvetica, sans-serif;
+}
+
+.BHamid {
+  font-family: BHamid, Arial, Helvetica, sans-serif;
+}
+
+.BHelal {
+  font-family: BHelal, Arial, Helvetica, sans-serif;
+}
+
+.BHoma {
+  font-family: BHoma, Arial, Helvetica, sans-serif;
+}
+
+.BJadidBold {
+  font-family: BJadidBold, Arial, Helvetica, sans-serif;
+}
+
+.BJalal {
+  font-family: BJalal, Arial, Helvetica, sans-serif;
+}
+
+.BKoodakBold {
+  font-family: BKoodakBold, Arial, Helvetica, sans-serif;
+}
+
+.BKourosh {
+  font-family: BKourosh, Arial, Helvetica, sans-serif;
+}
+
+.BLotus {
+  font-family: BLotus, Arial, Helvetica, sans-serif;
+}
+
+.BMahsa {
+  font-family: BMahsa, Arial, Helvetica, sans-serif;
+}
+
+.BMehrBold {
+  font-family: BMehrBold, Arial, Helvetica, sans-serif;
+}
+
+.BMitra {
+  font-family: BMitra, Arial, Helvetica, sans-serif;
+}
+
+.BMorvarid {
+  font-family: BMorvarid, Arial, Helvetica, sans-serif;
+}
+
+.BNarm {
+  font-family: BNarm, Arial, Helvetica, sans-serif;
+}
+
+.BNasimBold {
+  font-family: BNasimBold, Arial, Helvetica, sans-serif;
+}
+
+.BNazanin {
+  font-family: BNazanin, Arial, Helvetica, sans-serif;
+}
+
+.BRoya {
+  font-family: BRoya, Arial, Helvetica, sans-serif;
+}
+
+.BSetarehBold {
+  font-family: BSetarehBold, Arial, Helvetica, sans-serif;
+}
+
+.BShiraz {
+  font-family: BShiraz, Arial, Helvetica, sans-serif;
+}
+
+.BSinaBold {
+  font-family: BSinaBold, Arial, Helvetica, sans-serif;
+}
+
+.BTabassom {
+  font-family: BTabassom, Arial, Helvetica, sans-serif;
+}
+
+.BTehran {
+  font-family: BTehran, Arial, Helvetica, sans-serif;
+}
+
+.BTitrBold {
+  font-family: BTitrBold, Arial, Helvetica, sans-serif;
+}
+
+.BTitrTGEBold {
+  font-family: BTitrTGEBold, Arial, Helvetica, sans-serif;
+}
+
+.BTraffic {
+  font-family: BTraffic, Arial, Helvetica, sans-serif;
+}
+
+.BVahidBold {
+  font-family: BVahidBold, Arial, Helvetica, sans-serif;
+}
+
+.BYagut {
+  font-family: BYagut, Arial, Helvetica, sans-serif;
+}
+
+.BYas {
+  font-family: BYas, Arial, Helvetica, sans-serif;
+}
+
+.BYekan {
+  font-family: BYekan, Arial, Helvetica, sans-serif;
+}
+
+.BZar {
+  font-family: BZar, Arial, Helvetica, sans-serif;
+}
+
+.BZiba {
+  font-family: BZiba, Arial, Helvetica, sans-serif;
+}
+
+.iran {
+  font-family: nastaliq, Arial, Helvetica, sans-serif;
+}
+
+.krm {
+  text-decoration: none;
+  color: slategrey;
+}
+
+.section-1 {
+  padding-top: 3rem;
+}
+
+.baby {
+  position: absolute;
+  width: 100%;
+  padding-top: 3rem;
+}
+
+.vovo {
+  width: 100px;
+}
+
+.parent-1 {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  gap: 15px;
+}
+
+.toto {
+  width: 10rem;
+  background-color: rgba(83, 83, 83, 0.3725490196);
+  padding: 23px 36px 38px 39px;
+  border-radius: 6px;
+}
+
+.pop-1 {
+  font-size: 20px;
+  padding-top: 10px;
+}
+
+.p-11 {
+  position: relative;
+  top: -2rem;
+  left: -7px;
+}
+
+.p-111 {
+  position: relative;
+  top: -2rem;
+  left: -40px;
+}
+
+.p-1111 {
+  position: relative;
+  top: -2rem;
+  left: -28px;
+}
+
+.p-11111 {
+  position: relative;
+  top: -2rem;
+  left: -2px;
+  font-size: 11px;
+}
+
+.p-111111 {
+  position: relative;
+  top: -2rem;
+  left: -45px;
+}
+
+.p-1111111 {
+  position: relative;
+  top: -2rem;
+  left: -3px;
+  font-size: 13px;
+}
+
+.p-11111111 {
+  position: relative;
+  top: -2rem;
+  left: -22px;
+  font-size: 13px;
+}
+
+.p-111111111 {
+  position: relative;
+  top: -2rem;
+  left: -4px;
+  font-size: 13px;
+}
+
+.yasin {
+  padding-top: 15rem;
+}
+
+.popow {
+  position: relative;
+  top: 16rem;
+}
+
+.popow1 {
+  position: relative;
+  top: -1rem;
+}
+
+.viyou {
+  border-radius: 14px;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px;
+  border-style: hidden;
+}
+
+.div18 {
+  grid-column-start: 5;
+  grid-row-start: 3;
+}
+
+.div19 {
+  grid-column-start: 4;
+  grid-row-start: 3;
+}
+
+.poro {
+  padding-top: 3rem;
+}
+
+.p-dark {
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.a-text {
+  text-decoration: none;
+}
+
+.img-1 {
+  position: relative;
+  left: -40px;
+}
+
+.h1-1 {
+  font-size: 21px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p-dark2 {
+  padding-top: 2rem;
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p-dark3 {
+  padding-top: 2rem;
+  font-size: 15px;
+  color: rgb(92, 92, 92);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h1-2 {
+  font-size: 21px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.h1-3 {
+  color: rgb(100, 100, 100);
+  font-size: 18px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.taha1 {
+  text-decoration: none;
+  color: silver;
+  list-style: none;
+}
+
+.li-1 {
+  list-style: none;
+  padding: 3px 4px;
+}
+
+.momo1 {
+  position: relative;
+  top: 12rem;
+  font-size: 15px;
+}
+
+.parent1 {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  gap: 6px;
+}
+
+.p-2 {
+  position: relative;
+  top: -2rem;
+  left: -22px;
+  font-size: 11px;
+}
+
+.p-3 {
+  position: relative;
+  top: -3rem;
+  left: -36px;
+  font-size: 11px;
+}
+
+.p-4 {
+  position: relative;
+  top: -50px;
+  left: -18px;
+  font-size: 11px;
+}
+
+.p-5 {
+  position: relative;
+  top: -5rem;
+  left: -1px;
+  font-size: 8px;
+}
+
+.p-6 {
+  position: relative;
+  top: -2rem;
+  left: -52px;
+  font-size: 11px;
+}
+
+.p-7 {
+  position: relative;
+  top: -2rem;
+  left: -32px;
+  font-size: 11px;
+}
+
+.p-8 {
+  position: relative;
+  top: -2rem;
+  left: -33px;
+  font-size: 11px;
+}
+
+.p-9 {
+  position: relative;
+  top: -2rem;
+  left: -54px;
+  font-size: 12px;
+}
+
+.p-10 {
+  position: relative;
+  top: -2rem;
+  left: -40px;
+  font-size: 11px;
+}
+
+.p-11 {
+  position: relative;
+  top: -2rem;
+  left: -37px;
+  font-size: 11px;
+}
+
+.dodol {
+  position: relative;
+  top: 24px;
+}
+
+.img-1 {
+  padding-top: 35px;
+}
+
+.img-2 {
+  padding-top: 1px;
+}
+
+.img-3 {
+  padding-top: 60px;
+}
+
+.img-4 {
+  padding-top: 41px;
+}
+
+.img-5 {
+  padding-top: 27px;
+}
+
+.img-6 {
+  padding-top: 32px;
+}
+
+.img-7 {
+  padding-top: 48px;
+}
+
+.img-8 {
+  padding-top: 31px;
+}
+
+.p-2 {
+  position: relative;
+  top: -3rem;
+  left: -27px;
+  font-size: 17px;
+}
+
+.p-3 {
+  position: relative;
+  top: -3rem;
+  left: -37px;
+  font-size: 17px;
+}
+
+.p-4 {
+  position: relative;
+  left: -29px;
+  font-size: 17px;
+}
+
+.p-111 {
+  position: relative;
+  top: -3rem;
+  left: -29px;
+  font-size: 17px;
+}
+
+.p-12 {
+  position: relative;
+  top: -2rem;
+  left: -43px;
+  font-size: 17px;
+}
+
+.p-13 {
+  position: relative;
+  top: -4rem;
+  left: -19px;
+  font-size: 17px;
+}
+
+.p-5 {
+  position: relative;
+  top: -5rem;
+  left: 4px;
+  font-size: 17px;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+
+.nana {
+  position: relative;
+  top: 20rem;
+  border-radius: 1rem;
+}
+
+.koko {
+  width: 400px;
+  height: 150px;
+}
+
+.b1 {
+  padding-top: 4rem;
+  font-size: x-large;
+  color: black;
+}
+
+.btn-smr {
+  position: relative;
+  border: none;
+  left: -5rem;
+}
+
+.btn-smr-1 {
+  position: relative;
+  border: none;
+  left: -6rem;
+}
+
+.baran {
+  width: 30px;
+}
+
+.ppp {
+  padding-top: 3rem;
+}
+
+section p {
+  color: black;
+}
+
+.ja-2 {
+  bottom: 100px;
+  padding-top: 10rem;
+  background-color: rgba(150, 150, 150, 0.732);
+  height: 375px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 20px;
+  position: relative;
+  top: -65px;
+}
+
+.moshahede-mahsolat {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  position: relative;
+  top: 20px;
+  padding-right: 100px;
+}
+
+.mahsol-berand {
+  width: 300px;
+  overflow: hidden;
+}
+
+.mahsol-text {
+  position: relative;
+  width: 100px;
+  height: 32px;
+  background-color: rgb(185, 185, 185);
+  bottom: 400px;
+  text-align: center;
+  color: black;
+}
+
+.moshahede-mahsolat {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  position: relative;
+  top: 0rem;
+  padding-right: 100px;
+}
+
+.mahsol-ha {
+  position: relative;
+  top: -44px;
+}
+
+.lilie {
+  position: relative;
+  top: -6rem;
+}
+
+.nana-2 {
+  position: relative;
+  top: 24rem;
+  border-radius: 1rem;
+}
+
+.h1-i {
+  padding-top: 1rem;
+  position: relative;
+  top: -11px;
+}
+
+.got {
+  width: 1px;
+}
+
+.a-1 {
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  border-radius: 3rem;
+  position: relative;
+  top: -2rem;
+  height: 35px;
+}
+
+.a-1:hover {
+  background-color: rgba(0, 255, 255, 0.3843137255);
+  color: black;
+}
+
+.a-2 {
+  border-radius: 2rem;
+  position: relative;
+  left: 5rem;
+  top: 10px;
+}
+
+.foder {
+  position: relative;
+  top: 31rem;
+}
+
+.gojo {
+  border-radius: 2rem;
+}
+
+.dad {
+  position: relative;
+  top: 40rem;
+}
+
+.nana-1 {
+  position: relative;
+  top: 43rem;
+  border-radius: 1rem;
+}
+
+.nana-4 {
+  position: relative;
+  top: 50rem;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(/imeg/talaa-1.jpg);
+  border-radius: 1rem;
+}
+
+.a-4 {
+  text-decoration: none;
+  color: black;
+  background-color: gold;
+  font-size: 1rem;
+  border-radius: 3rem;
+  position: relative;
+  right: 96rem;
+  top: -2rem;
+  display: inline;
+}
+
+.a-4:hover {
+  background-color: rgba(255, 217, 0, 0.405);
+}
+
+.yasin {
+  text-decoration: none;
+}
+
+.se-6 {
+  position: relative;
+  top: 56rem;
+}
+
+.bor {
+  border-radius: 20px;
+}
+
+.nana-5 {
+  position: relative;
+  top: 58rem;
+  border-radius: 1rem;
+}
+
+.a-5 {
+  text-decoration: none;
+  color: black;
+  background-color: aqua;
+  font-size: 1rem;
+  border-radius: 3rem;
+  position: relative;
+  right: 96rem;
+  top: -2rem;
+  display: inline;
+}
+
+.a-5:hover {
+  background-color: rgba(0, 255, 255, 0.3843137255);
+}
+
+.nana-6 {
+  position: relative;
+  top: 66rem;
+  border-radius: 1rem;
+}
+
+.a-6 {
+  text-decoration: none;
+  color: black;
+  background-color: aqua;
+  font-size: 1rem;
+  border-radius: 3rem;
+  position: relative;
+  right: 96rem;
+  top: -2rem;
+  display: inline;
+}
+
+.a-6:hover {
+  background-color: rgba(0, 255, 255, 0.3843137255);
+}
+
+.reza {
+  position: relative;
+  top: 70rem;
+}
+
+.reza-2 {
+  position: relative;
+  top: 78rem;
+}
+
+.popo {
+  font-size: 30px;
+  position: relative;
+  top: -3rem;
+  left: -12rem;
+}
+
+.popop {
+  font-size: 20px;
+  position: relative;
+  left: -14rem;
+}
+
+.goko {
+  position: relative;
+  left: -13rem;
+}
+
+.reza-3 {
+  position: relative;
+  top: 80rem;
+}
+
+.taha {
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(168, 168, 168);
+}
+
+.lufy {
+  width: 44px;
+  left: -25px;
+  position: relative;
+}
+
+.lufy-1 {
+  width: 44px;
+  left: -45px;
+  position: relative;
+}
+
+.lufy-2 {
+  width: 44px;
+  left: -55px;
+  position: relative;
+}
+
+.aaa {
+  position: relative;
+  top: 1rem;
+}
+
+.mom {
+  position: relative;
+  top: 85rem;
+  font-size: 22px;
+}
+
+.cit {
+  position: relative;
+  top: 23rem;
+}
+
+.cif {
+  position: relative;
+  top: 78rem;
+}
+
+/*# sourceMappingURL=style.css.map */
